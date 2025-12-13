@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "逆光",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-13T09:20:58.074390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "逆光",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_逆光_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "逆光 (ウタ from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_逆光_(ウタ_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BACKLIGHT (逆光) English Cover",
+      "artist": "DEMONDICE",
+      "has_synced": false,
+      "path": "select/03_BACKLIGHT_(逆光)_English_Cover_DEMONDICE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "逆光",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_逆光_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "逆光 - replica -",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/05_逆光_-_replica_-_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "逆光 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_逆光_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "逆光",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_逆光_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "逆光",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/08_逆光_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "逆光",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/09_逆光_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "逆光",
+      "artist": "Stefanie Sun",
+      "has_synced": true,
+      "path": "select/10_逆光_Stefanie_Sun.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "逆光 - Back Lighting",
+      "artist": "Sun Yanzi",
+      "has_synced": true,
+      "path": "select/11_逆光_-_Back_Lighting_Sun_Yanzi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "逆光",
+      "artist": "郑骏杰",
+      "has_synced": false,
+      "path": "select/12_逆光_郑骏杰.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "逆光 (ウタ from ONE PIECE FILM RED)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/13_逆光_(ウタ_from_ONE_PIECE_FILM_RED)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "逆光 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/14_逆光_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "逆光",
+      "artist": "Kimberley Chen",
+      "has_synced": true,
+      "path": "select/15_逆光_Kimberley_Chen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "逆光",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/16_逆光_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "逆光",
+      "artist": "陳一發兒",
+      "has_synced": true,
+      "path": "select/17_逆光_陳一發兒.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "逆光",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/18_逆光_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逆光",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_逆光_Ado.txt"
+    }
+  ]
+}
